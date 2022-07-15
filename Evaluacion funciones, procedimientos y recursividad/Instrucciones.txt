@@ -1,0 +1,53 @@
+1. Escribir dos funciones que permitan calcular:
+a. La cantidad de segundos en un tiempo dado en horas, minutos y segundos.
+b. La cantidad de horas, minutos y segundos de un tiempo dado en segundos.
+Escribe un programa principal con un menú donde se pueda elegir la opción de convertir a segundos y
+convertir a horas, minutos y segundos o salir del programa.
+
+
+
+2.Crear un procedimiento llamada “Login”, que recibe por parámetros un nombre de usuario y una
+contraseña y te devuelve “Verdadero” si el nombre de usuario y contraseña sean correctos. Además, debe
+de llevar el control del número de intentos que se ha intentado hacer login y si excede de 3 intentos, deben
+de finalizar el programa
+Crear un programa principal donde se permita definir el nombre de usuario con una contraseña y se
+intente hacer login.
+
+
+
+3. Crear un programa que permita hacer la conversión de un numero entero (entre 0 y 100) en base decimal a
+base binaria y octal. El programa debe de solicitar el número y la conversión que desea hacer. Utilizar solo
+funciones para resolver
+
+
+4.En la matemática combinatoria, los números de Catalan forman una secuencia de números naturales que
+aparece en varios problemas de conteo que habitualmente son recursivos. Obtienen su nombre del
+matemático belga Eugène Charles Catalan. Su cálculo está definido por la siguiente expresión matemática
+
+Cn { si n = 0 => 1
+   { si n > 0 => ( 2 (2n-1) / n + 1 ) * Cn-1
+
+
+5.Crear un programa que trabaje con fracciones a/b. Para representar una fracción vamos a utilizar dos
+enteros: numerador y denominador.
+Se deben de crear las siguientes funciones o procedimientos para el funcionamiento del programa:
+• Leer_fracción: Debe de leer por teclado el numerador y el denominador de la facción.
+• Escribir_fracción: Escribe en pantalla la fracción. Si el dominador es 1, se muestra sólo el numerador.
+• Calcular_mcd: Esta función recibe dos números y devuelve el máximo común divisor.
+• Simplificar_fracción: Debe de simplifica la fracción, para ello hay que dividir numerador y dominador
+por el MCD del numerador y denominador.
+• Sumar_fracciones: Recibe dos fracciones “n1/d1” y “n2/d2”, y calcula la suma de las dos fracciones. La
+suma de dos fracciones es otra fracción cuyo numerador=n1*d2+d1*n2 y denominador=d1*d2. Se debe
+simplificar la fracción resultado.
+• Restar_fracciones: Recibe dos fracciones “n1/d1” y “n2/d2”, y calcula la resta dos
+fracciones: numerador=n1*d2-d1*n2 y denominador=d1*d2. Se debe simplificar la fracción resultado.
+• Multiplicar_fracciones: Recibe dos fracciones “n1/d1” y “n2/d2”, y calcula el producto, para
+ello numerador=n1*n2 y denominador=d1*d2. Se debe simplificar la fracción resultado.
+• Dividir_fracciones: Recibe dos fracciones “n1/d1” y “n2/d2”, y calcula el cociente, para
+ello numerador=n1*d2 y denominador=d1*n2. Se debe simplificar la fracción resultado.
+El programa debe de mostrar el siguiente menú:
+A. Sumar dos fracciones: En esta opción se piden dos fracciones y se muestra el resultado.
+B. Restar dos fracciones: En esta opción se piden dos fracciones y se muestra la resta.
+C. Multiplicar dos fracciones: En esta opción se piden dos fracciones y se muestra la producto.
+D. Dividir dos fracciones: En esta opción se piden dos fracciones y se muestra la cociente.
+E. Salir

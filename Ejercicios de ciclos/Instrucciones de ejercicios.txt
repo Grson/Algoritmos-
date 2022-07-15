@@ -1,0 +1,22 @@
+
+Salario
+4.1) Un profesor tiene un salario inicial de $1500, y recibe un incremento de 10 % anual durante 6 años. ¿Cuál es su salario al cabo de 6
+años? ¿Qué salario ha recibido en cada uno de los 6 años?
+
+Función exponencial
+4.11) Obtener una función exponencial, la cual está dada por: e^x = 1 + x/1! + x^2/2! ...
+
+Cubo Numero Naturales
+4.16) Dado un grupo de números naturales positivos, calcule e imprima el cubo de estos números
+
+Monedero
+4.21) Realice un algoritmo para determinar qué cantidad de dinero hay
+en un monedero, considerando que se tienen monedas de diez, cinco y un peso, y billetes de diez, veinte y cincuenta pesos.
+
+
+Realizar un programa que se visualice de la siguiente forma
+1
+12
+123
+12
+1

@@ -1,0 +1,56 @@
+
+
+-----------------------------------------
+1. Factorial
+
+2.Fibonacci
+
+3. MCD
+
+
+---------------------------------------
+
+1. Escriba un programa que tome como entrada desde teclado dos números naturales
+(mayores
+que cero) "N" e "i", e imprima en pantalla el dígito que ocupa la posición i-ésima del
+número
+N. Si i es mayor que el número de dígitos de N, se escribirá en pantalla -1. Por
+ejemplo, para N
+= 25064 e i = 2, el resultado es el dígito 6, y para i = 7, el resultado es -1.
+
+
+2. Escribe un programa que acepte como entrada desde teclado un número natural
+mayor que cero
+y dé como salida el resultado de sumar dos a dos los dígitos que aparecen en
+posiciones
+simétricas respecto al dígito central dentro del número dado como entrada. Por
+ejemplo :
+para el número : 2354869
+la salida es: 2+9 = 11, 3 + 6 = 9, 5 + 8 = 13, 4
+para el número : 6582
+la salida es : 6 + 2 = 8, 5 + 8 = 13
+
+
+
+.3. Programar un algoritmo recursivo que permita sumar los dígitos de un
+número.Ejemplo: Entrada:123 Resultado:6
+
+
+
+4. Diseña un procedimiento recursivo que lea una secuencia de caracteres de longitud
+arbitraria
+terminada en un punto, y la imprima en orden inverso. El procedimiento no tiene
+parámetros.
+Suponga que existen las siguientes funciones
+LOGITUD(texto) que devuelve el tamaño en caracteres de la variable texto
+POSICION(texto,N) que devuelve el carácter en la posición N de la variable texto
+
+----------------------------------------
+
+
+Ejercicios extras con recursividad
+1. sumar n prmeros numeros consecutivos
+
+2. sumar n primeros numeros pares
+
+3. sumar n numeros impares

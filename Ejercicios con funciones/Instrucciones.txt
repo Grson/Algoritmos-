@@ -1,0 +1,26 @@
+Media Tres Numeros
+5.1) Funcion que calcule la media de tres numeros
+
+
+Factorial
+5.2) Funcion que calcule el factorial entero entre el rango 100 a 1,000,000 (PseInt no soporta debido a esto esta definido de 1 al 12)
+
+MCD
+5.3) MCD de cuatro numero usando funcion
+
+Potencia 
+5.5)calcular x Elevado n (x variable real y n variable entera)
+
+5.7) Procedimiento que acepte un numero de me, dia y año
+dd/mm/aa
+
+Salario
+5.9)Calcular un salario de un trabajador para un numero dado de horas trabajadas y un salario hora. Las horas que superen las 40 horas semales se pagaran como
+extras con un salario hora 1.5 veces el salario ordiniario
+
+
+Digito
+5.10)Escribir una funcion booleano que determine si un caracter es uno de los digitos 0 al 9
+
+Numeros Romanos
+Escribir una cantidad de enteros en numeros romanos

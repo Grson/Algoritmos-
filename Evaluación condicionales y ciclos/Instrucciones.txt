@@ -1,0 +1,44 @@
+1. Dado el peso, la altura y el género de un niño. Determinar la cantidad de vitaminas (gramos) que
+debe de consumir este niño, en base al siguiente criterio:
+a. Si es un hombre, y su estatura es mayor de 1.60 metros y su peso mayor o igual a 150
+libras, su dosis será: 20% de la estatura y 80% de su peso. De lo contrario, la dosis será:
+30% de la estatura y 70% de su peso.
+b. Es es una mujer, y su estatura es mayor de 1.50 metros y su peso es mayor o igual a 130
+libras, su dosis será: 25% de la estatura y 75% de su peso. De lo contrario, la dosis será
+35% de la estatura y 65% de su peso.
+
+
+2.Solicite al usuario que ingrese números enteros positivos hasta que ingrese el valor de “0”, Luego
+el programa debe de mostrar la suma de todos los números ingresados, el promedio respectivo, el
+número máximo y el número mínimo.
+Usar ciclo REPETIR-HASTA
+
+
+3.Calcular la suma de los primeros Z números múltiplos de X. Solicitar el valor de X y Z al usuario.
+Usar ciclo MIENTRAS
+
+
+4.Desplegar todos los días del año 2021 al 2022 en el siguiente formato:
+<dia_semana> DD de <mes> del YYYY
+
+Donde:
+DD son los días del 1 al último día válidos del mes
+YYYY es el año
+<dia_semana> puede ser: lunes, martes, miércoles, jueves, viernes, sábado o domingo.
+<mes> puede ser: enero, febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre,
+noviembre o diciembre.
+El 1 de enero de 2021 es viernes y que no hay años bisiestos.
+Usar ciclo PARA
+
+
+5. Realizar un programa para un cajero de un banco, que al ingresar un monto de dinero, le indique
+la cantidad menor de billetes y monedas que debe de entregar de cada denominación. Suponga
+que tiene disponibilidad de todas las denominaciones de monedas y billetes. Recuerde que en
+cada país se pueden tener diferentes denominaciones de billetes y monedas.
+
+
+
+6.Elaborar un programa para obtener los resultados del escrutinio en las elecciones del presidente
+del congreso, hay que considerar que hay “N” diputados y que se han presentado “M” candidatos
+(máximo 5), todos los diputados siempre deben de elegir solo 1 candidato (no hay votos nulos, ni
+en blanco). Indicar el diputado electo por mayoría simple o empate si este existiese.
